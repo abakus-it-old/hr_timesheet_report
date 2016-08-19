@@ -1,6 +1,6 @@
 {
     'name': "Timesheet Report Printing",
-    'version': '1.0',
+    'version': '9.0.1.0',
     'depends': ['hr'],
     'author': "Valentin THIRION, AbAKUS it-solutions SARL",
     'website': "http://www.abakusitsolutions.eu",
